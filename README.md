@@ -1,2 +1,2 @@
 # Calculator
-<br>  Simple Calculator web App
+Simple Calculator web App
